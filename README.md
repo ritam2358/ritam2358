@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ritam][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website]](https://ritamjana.github.io/)
 
 ## I'm a 
 
@@ -36,7 +36,7 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
   <table>
     <tr>
         <th><img src="https://github-readme-stats.vercel.app/api?username=ritam2358&show_icons=true&hide_border=true&border_radius=0&count_private=true&theme=dark" /></th>
