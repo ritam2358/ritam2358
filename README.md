@@ -33,7 +33,13 @@
 <br />
 <br />
 
-<details>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritam2358&show_icons=true&hide_border=true&border_radius=0&count_private=true&theme=merko&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritam2358&repo=convoychat" />
+</a>
+
   <summary>GitHub Stats</summary>
   <table>
     <tr>
@@ -42,7 +48,6 @@
     </tr>
    </table>
 
-</details>
 
 [website]: https://ritamjana.github.io/
 [twitter]: https://twitter.com/codeSTACKr
