@@ -1,9 +1,8 @@
 ### Hi there, I'm [Ritam][website] 👋
 
-## I'm a 
+## I'm a student at IIT Kanpur
 
 <!-- - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
@@ -33,18 +32,11 @@
 <br />
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritam2358&show_icons=true&hide_border=true&border_radius=0&count_private=true&theme=merko&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ritam2358&repo=convoychat" />
-</a>
-
-  <summary>GitHub Stats</summary>
+### GitHub Stats
   <table>
     <tr>
-        <th><img src="https://github-readme-stats.vercel.app/api?username=ritam2358&show_icons=true&hide_border=true&border_radius=0&count_private=true&theme=dark" /></th>
-        <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritam2358&layout=compact&langs_count=100&hide_border=true&border_radius=0&card_width=450&theme=dark" /></th>
+        <th><img src="https://github-readme-stats.vercel.app/api?username=ritam2358&show_icons=true&hide_border=true&border_radius=0&count_private=true&theme=vue-dark" /></th>
+        <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritam2358&layout=compact&langs_count=100&hide_border=true&border_radius=0&card_width=450&theme=vue-dark" /></th>
     </tr>
    </table>
 
