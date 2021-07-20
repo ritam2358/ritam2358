@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ritam][website] 👋
 
-## I'm a student at IIT Kanpur
+#### I'm a student at IIT Kanpur
 
 <!-- - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -33,6 +33,7 @@
 <br />
 
 ### GitHub Stats
+<br />
   <table>
     <tr>
         <th><img src="https://github-readme-stats.vercel.app/api?username=ritam2358&show_icons=true&hide_border=true&border_radius=0&count_private=true&theme=vue-dark" /></th>
@@ -44,4 +45,4 @@
 [website]: https://ritamjana.github.io/
 [twitter]: https://twitter.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/ritam-jana
