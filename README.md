@@ -1,5 +1,10 @@
 ## Hi there, I'm Ritam 👋
 
+<!-- - 👀 I’m interested in Cyber Security -->
+- 🌱 I’m currently learning Go/JS/Java
+- 👀 I’m looking to collaborate on some open source projects
+- ✨ I’m interested in Robotics
+- 📫 How to reach me [Contact Info](https://ritamjana.github.io/)
 
 
 ### GitHub Stats
@@ -11,6 +16,6 @@
     </tr>
    </table>
 
+![](https://hit.yhype.me/github/profile?user_id=25745900)
+![](https://komarev.com/ghpvc/?username=1-Harshit&style=flat-square)
 
-[website]: https://ritamjana.github.io/
-[linkedin]: https://linkedin.com/in/ritam-jana
